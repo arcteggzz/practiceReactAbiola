@@ -13,8 +13,9 @@ module.exports = {
       center: true,
     },
     fontFamily: {
-    sans : ["Lato, sans-serif"],
-    raleway: ["Raleway, sans-serif"]
+    sans: ["Lato, sans-serif"],
+    raleway: ["Raleway, sans-serif"],
+    openSans: ["font-family: 'Raleway', sans-serif"]
     }
   },
   plugins: [],

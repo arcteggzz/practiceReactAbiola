@@ -21,5 +21,6 @@ const linkStyle = `hover:bg-red-900`
 export default NavBar;
 //Add the hover effect that shows the horizontal line underneath using tailwind
 //add the navigation element to each of the anchor tags in the navBar
+//add the horizontal shadow on the navBar at the bottom of the nav
 
 //add the functionality that displays the line under each of the navBar elements

@@ -23,3 +23,4 @@ export default Hero;
 
 //add image as background of hero section
 //make h1 elements closer to each other along the y-axis
+//p text is longer than the original. can this be corrected?

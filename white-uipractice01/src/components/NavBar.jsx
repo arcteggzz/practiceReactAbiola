@@ -53,8 +53,3 @@ function NavBar() {
 
 const linkStyle = `pb-2 hover:border-sky-500 transition-opacity duration-1000`
 export default NavBar;
-//Add the hover effect that shows the horizontal line underneath using tailwind
-//add the navigation element to each of the anchor tags in the navBar
-//add the horizontal shadow on the navBar at the bottom of the nav
-
-//add the functionality that displays the line under each of the navBar elements

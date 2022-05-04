@@ -33,7 +33,3 @@ function Hero() {
 const heroDiv = `flex flex-col justify-center items-center mx-auto bg-hero max-h-fit w-full py-[100px] h-screen object-cover bg-no-repeat bg-cover bg-center bg-gray-700`
 const heroH1 = `text-[82px] font-bold font-raleway uppercase text-center my-0`
 export default Hero;
-
-//add image as background of hero section
-//make h1 elements closer to each other along the y-axis
-//p text is longer than the original. can this be corrected?

@@ -17,11 +17,11 @@ function Hero() {
                     Learn More
                 </button>
             </div> */}
-            <div className="">
+            <div className="leading-none">
                 <h1 className={heroH1}>We are a</h1>
                 <h1 className={heroH1}>Landing Page</h1>
             </div>
-            <p className="text-[22px] font-openSans text-center font-light max-w-4xl">
+            <p className="text-[22px] font-openSans text-center font-light max-w-3xl mb-[60px]">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum.
             </p>
             <button className="py-3 px-9 font-raleway text-white bg-black rounded-full uppercase text-[15px] bg-gradient-to-r from-sky-500 to-indigo-500">
@@ -30,6 +30,6 @@ function Hero() {
         </div>
     );
 }
-const heroDiv = `flex flex-col justify-center items-center mx-auto bg-hero max-h-fit w-full py-[100px] h-screen object-cover bg-no-repeat bg-cover bg-center bg-gray-700`
+const heroDiv = `flex flex-col justify-center items-center mx-auto bg-hero max-h-fit w-full py-[500px] h-screen object-cover bg-no-repeat bg-cover bg-center bg-gray-700`
 const heroH1 = `text-[82px] font-bold font-raleway uppercase text-center my-0`
 export default Hero;
